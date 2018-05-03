@@ -1,0 +1,17 @@
+.col-sm-4 {
+    padding-top: 25px;
+}
+
+.jumbotron {
+  width: 100%;
+  text-align: center;
+}
+
+img {
+    transition: .3s;
+}
+
+img:hover {
+    transition: .3s;
+    transform: scale(1.2);
+}

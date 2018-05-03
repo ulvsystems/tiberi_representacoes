@@ -1,0 +1,22 @@
+.titulo {
+    padding-top: 12%;
+    padding-left: 390px;
+}
+
+.email {
+  width: 60%;
+}
+
+.text {
+  width: 60%;
+}
+
+.content {
+  padding-top: 10px;
+  padding-left: 280px;
+}
+
+.tel {
+  padding-top: 30px;
+  text-align: center;
+}
