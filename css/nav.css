@@ -14,3 +14,69 @@
   font-size: 25px;
   padding-top: 2px;
 }
+
+.bg-light {
+  background-color: #fff!important;
+}
+
+.navbar-light .navbar-nav .nav-link {
+  color: #000;
+}
+
+.navbar-light .navbar-brand {
+  color: #000;
+}
+
+footer {
+	background-color: #f74c3c;
+	padding-bottom: 30px;
+	padding-top: 70px;
+}
+
+/* Responsive Styling */
+
+@media (max-width: 1199px) {
+	.jumbotron h1 {
+		font-size: 56px;
+		margin-bottom: 30px;
+	}
+ }
+
+ @media (max-width: 991px) {
+	.jumbotron h1 {
+		font-size: 44px;
+	}
+
+	.jumbotron p {
+		padding: 0 10px;
+	}
+
+	#get-involved .col-md-4 {
+		padding-bottom: 20px;
+		padding-top: 20px;
+	}
+ }
+
+
+ @media (max-width: 767px) {
+	.jumbotron h1 {
+		font-size: 24px;
+	}
+
+	.jumbotron p {
+		font-size: 15px;
+		padding: 0;
+	}
+
+	.btn-lg {
+		font-size: 18px;
+	}
+
+	.homepage p {
+		font-size: 18px;
+	}
+
+	footer img {
+		width: 80%;
+	}
+ }

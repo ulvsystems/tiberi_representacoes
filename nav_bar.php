@@ -34,17 +34,12 @@
           <li class="nav-item">
             <a class="nav-link links" href="/tiberi/contato.php">Contato</a>
           </li>
-          <li class="nav-item">
-            <a class="nav-link" href="https://www.facebook.com/tiberi.materiais"><i class="fab fa-facebook-square"></i></a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link" href="https://www.instagram.com/tiberirepresenta/"><i class="fab fa-instagram"></i></a>
-          </li>
         </ul>
       </div>
     </nav>
-<script src="http://code.jquery.com/jquery-3.3.1.min.js"></script>
-<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.0/js/bootstrap.min.js"></script>
 
-</body>
+  <script src="http://code.jquery.com/jquery-3.3.1.min.js"></script>
+  <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.0/js/bootstrap.min.js"></script>
+
+  </body>
 </html>
