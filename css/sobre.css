@@ -1,8 +1,9 @@
 .fundo {
-  background: url(https://images.unsplash.com/photo-1482690205767-61deebe15ef7?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=75eec1458885cfa3a3509ba5b421a45e&auto=format&fit=crop&w=1500&q=80);
-  background-size: cover;
+  width:782px;
+  size: cover;
   background-position: center;
 }
+
 
 .apresentacao {
   padding-top: 20%;
@@ -24,7 +25,6 @@ h3 {
 }
 
 p {
-
   font-size: 18px;
   font-weight: 600;
 }
