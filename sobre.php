@@ -1,6 +1,5 @@
 <?php include 'nav_bar.php';?>
 
-
 <div id="carouselExampleControls" class="carousel slide fundo" data-ride="carousel">
   <div class="carousel-inner">
     <div class="carousel-item active">
@@ -63,4 +62,5 @@
 		</div>
 	</div>
 
+<?php include 'footer.php';?>
   <script src="/tiberi/js/sobre.js"></script>

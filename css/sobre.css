@@ -1,6 +1,5 @@
 .fundo {
-  width:782px;
-  size: cover;
+  width:100%;
   background-position: center;
 }
 
@@ -12,7 +11,7 @@
 }
 
 h1 {
-  color: #e06912;
+  color: #EC644B;
   font-size: 60px;
 }
 
