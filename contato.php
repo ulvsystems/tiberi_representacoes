@@ -1,5 +1,6 @@
 <?php include 'nav_bar.php';?>
 
+<link rel="stylesheet" href="/tiberi/css/contato.css">
 
 <form>
   <div class="container">
